@@ -5,7 +5,7 @@ Hi, there. This is me, Yin Yiling.
 
 This is me.(Two months ago 😄)
 
-![me]( me.JPEG "me" ){:height="50%" width="50%"}
+![me]( me.JPEG "me" )
 
 👨 基本信息：
   - 姓名：尹艺玲
