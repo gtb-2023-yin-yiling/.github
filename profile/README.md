@@ -5,7 +5,7 @@ Hi, there. This is me, Yin Yiling.
 
 This is me.(Two months ago 😄)
 
-![me](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/boxcn4opQkBekUtvPrK9tBHQlwb/?fallback_source=1&height=1280&mount_node_token=doxcnyWMaegC8cgOq0qBVO2ULUk&mount_point=docx_image&policy=equal&width=1280 "me")
+![me]( me.JPEG "me" ){:height="50%" width="50%"}
 
 👨 基本信息：
   - 姓名：尹艺玲
